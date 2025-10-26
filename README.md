@@ -1,6 +1,10 @@
 <div align="center">
+
+
   
 # 👋 Hi, I'm Devinda Jayathilaka
+
+![Header](./profile-header.svg)
 
 ### 🚀 IT Undergraduate | Full-Stack Developer | AI Enthusiast
 
