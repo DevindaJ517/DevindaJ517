@@ -1,8 +1,7 @@
 <div align="center">
 
 
-  
-# 👋 Hi, I'm Devinda Jayathilaka
+
 
 ![Header](./profile-header.svg)
 
