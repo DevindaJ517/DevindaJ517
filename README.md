@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiran-devinda-656966263/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevindaJ517)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirandevinda8@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hiran.devinda.5/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiran_devinda/)
 
 </div>
 
@@ -14,7 +16,7 @@
 
 ## 🎓 About Me
 
-I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning complex problems into elegant, efficient code while exploring the cutting edge of technology.
+I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into reality through code and intelligent systems.
 
 - 🔭 Currently working on **ClaimSense** - An AI-powered Insurance Triage SaaS
 - 🌱 Learning about **Agentic AI Systems** and **MLOps**
