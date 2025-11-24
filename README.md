@@ -130,7 +130,7 @@ A microservices-based social media platform focused on reviews and community eng
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaJ517&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DevindaJ517&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevindaJ517&theme=tokyonight&hide_border=true&t=8)
 
 </div>
 
