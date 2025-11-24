@@ -134,7 +134,7 @@ A microservices-based social media platform focused on reviews and community eng
 
 </div>
 
-> **Note:** GitHub stats are updated in real-time and reflect your current activity, contributions, and repository statistics.
+> 
 
 ---
 
