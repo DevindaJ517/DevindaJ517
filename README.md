@@ -1,7 +1,6 @@
 <div align="center">
 
 
-
 ![Header](./profile-header.svg)
 
 
@@ -19,7 +18,7 @@
 
 ## 🎓 About Me
 
-I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into reality through code and intelligent systems.
+I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into intelligent, production-ready applications.
 
 - 🔭 Currently working on **ClaimSense** - An AI-powered Insurance Triage SaaS
 - 🌱 Learning about **Agentic AI Systems** and **MLOps**
@@ -38,12 +37,15 @@ I'm a dedicated IT undergraduate from the **Institute of Technology, University 
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -87,17 +89,47 @@ Cloud-native SaaS platform automating insurance claim triage with intelligent fr
 
 ---
 
+### 🔷 [FlexiTask - Job Posting Board](https://github.com/DevindaJ517/FlexiTask) *(Ongoing)*
+Modern full-stack job posting platform with SEO optimization and admin management.
+
+**Tech Stack:** Next.js 16, TypeScript, Supabase (PostgreSQL), Prisma, NextAuth.js, Tailwind CSS, Cloudinary
+
+**Key Features:**
+- SEO-optimized job listings with JSON-LD Schema for Google for Jobs
+- Admin dashboard for job posting management
+- LinkedIn direct apply integration
+- Rich text formatting with XSS protection
+- Cloudinary media management
+- Responsive mobile-first design
+
+---
+
+### 🔷 [FlexiTask Automations](https://github.com/DevindaJ517/FlexiTask-Automations) *(Ongoing)*
+Automation workflows and tooling for FlexiTask platform optimization.
+
+**Tech Stack:** Node.js, GitHub Actions, Automation Scripts
+
+**Key Features:**
+- Automated job posting workflows
+- Data synchronization and validation
+- Scheduled maintenance tasks
+- CI/CD pipeline integration
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevindaJ517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevindaJ517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaJ517&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevindaJ517&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevindaJ517&theme=tokyonight&hide_border=true)
 
 </div>
+
+> **Note:** GitHub stats are updated in real-time and reflect your current activity, contributions, and repository statistics.
 
 ---
 
