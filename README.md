@@ -64,35 +64,57 @@ I'm a dedicated IT undergraduate from the **Institute of Technology, University 
 ## 🚀 Featured Projects
 
 ### 🔷 [FlexiTask - Job Posting Board](https://flexi-task-zeta.vercel.app) 
-Modern full-stack job posting platform with SEO optimization and admin management.
+Enterprise-grade job posting platform with advanced features for job seekers and employers.
 
-**Tech Stack:** Next.js 16, TypeScript, Supabase (PostgreSQL), Prisma, NextAuth.js, Tailwind CSS, Cloudinary
+**Tech Stack:** Next.js 15, TypeScript, Supabase (PostgreSQL), Prisma ORM, NextAuth.js v5, Tailwind CSS, Shadcn UI, Cloudinary, Resend
 
-**What I've Done So Far:**
-- 📊 Built complete database with 8+ models (jobs, categories, locations, users)
-- 🏗️ Created hierarchical job categorization system
-- 🌍 Implemented Country-City location management
-- 🔐 Set up NextAuth.js authentication (credentials + OAuth)
-- 📸 Integrated Cloudinary for image uploads
-- 🔍 Added advanced filtering (job type, location, experience)
-- 📈 Built job view tracking and analytics
-- 🔒 Implemented security (XSS protection, input validation)
-- 🎯 Created admin dashboard with role-based access
-- 📝 Comprehensive documentation for deployment
+**Core Features:**
+- 🔐 **Authentication System:** NextAuth.js v5 with credentials & OAuth (Google, GitHub)
+- 📊 **Advanced Job Management:** Create, edit, delete jobs with rich text descriptions
+- 🔍 **Smart Filtering:** Multi-parameter search (category, location, job type, experience level)
+- 📈 **Analytics Dashboard:** Job view tracking, application analytics, and engagement metrics
+- 🌍 **Location Management:** Hierarchical Country-City system with dynamic dropdowns
+- 🏷️ **Category System:** Organized job categorization with parent-child relationships
+- 📸 **Media Management:** Cloudinary integration for company logos and images
+- 🔒 **Security:** XSS protection, input validation, rate limiting, CSRF protection
+- 👤 **User Profiles:** Job seeker profiles with resume upload and application tracking
+- 🎯 **Admin Dashboard:** Role-based access control with user management
+- 📧 **Email Notifications:** Resend integration for job alerts and application updates
+- 🎨 **Modern UI/UX:** Responsive design with Shadcn UI components and Tailwind CSS
+- ⚡ **Performance:** Server-side rendering, image optimization, and efficient caching
+
+**Database Architecture:**
+- 8+ interconnected models (Jobs, Users, Categories, Locations, Applications, etc.)
+- Optimized queries with Prisma ORM
+- Proper indexing for fast searches
+
+**Deployment:**
+- Hosted on Vercel with CI/CD pipeline
+- Environment-based configuration
+- Production-ready with monitoring and error tracking
 
 ---
 
-### 🔷 [FlexiTask Automations](https://github.com/DevindaJ517/FlexiTask-Automations) *(Telegrame Live-Ongoing)*
-Automation workflows and tooling for FlexiTask platform optimization.
+### 🔷 [FlexiTask Automations](https://github.com/DevindaJ517/FlexiTask-Automations) *(Telegram Live - Ongoing)*
+Intelligent automation workflows and tooling for FlexiTask platform optimization and monitoring.
 
-**Tech Stack:** Python Fast Api, GitHub Actions, Automation Scripts
+**Tech Stack:** Python, FastAPI, GitHub Actions, Telegram Bot API, Automation Scripts, Cron Jobs
 
-**What I've Done So Far:**
-- 🏗️ Designed automation architecture
-- ⚙️ Set up CI/CD with GitHub Actions
-- ✅ Created data validation scripts
-- 🔄 Built database sync tools
-- ⏰ Implemented scheduled maintenance tasks
+**Key Features:**
+- 🤖 **Telegram Bot Integration:** Real-time job posting notifications and alerts
+- ⚙️ **CI/CD Pipeline:** Automated testing and deployment with GitHub Actions
+- ✅ **Data Validation:** Automated scripts for job data quality checks
+- 🔄 **Database Sync:** Scheduled synchronization tools for data consistency
+- ⏰ **Scheduled Tasks:** Cron-based maintenance and cleanup operations
+- 📊 **Analytics Automation:** Automated report generation and insights
+- 🔔 **Alert System:** Proactive monitoring and incident notifications
+- 🔧 **API Endpoints:** RESTful APIs for integration with FlexiTask platform
+
+**Workflow Automation:**
+- Automated job expiry notifications
+- Daily/weekly analytics reports
+- Data backup and restoration scripts
+- Performance monitoring and optimization
 
 ---
 
@@ -133,8 +155,6 @@ A microservices-based social media platform focused on reviews and community eng
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DevindaJ517&theme=tokyonight&hide_border=true&t=8)
 
 </div>
-
-> 
 
 ---
 
