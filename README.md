@@ -63,7 +63,7 @@ I'm a dedicated IT undergraduate from the **Institute of Technology, University 
 
 ## 🚀 Featured Projects
 
-### 🔷 [FlexiTask - Job Posting Board](https://github.com/DevindaJ517/FlexiTask) *(Ongoing)*
+### 🔷 [FlexiTask - Job Posting Board]([https://github.com/DevindaJ517/FlexiTask](https://flexi-task-zeta.vercel.app)) 
 Modern full-stack job posting platform with SEO optimization and admin management.
 
 **Tech Stack:** Next.js 16, TypeScript, Supabase (PostgreSQL), Prisma, NextAuth.js, Tailwind CSS, Cloudinary
@@ -82,10 +82,10 @@ Modern full-stack job posting platform with SEO optimization and admin managemen
 
 ---
 
-### 🔷 [FlexiTask Automations](https://github.com/DevindaJ517/FlexiTask-Automations) *(Ongoing)*
+### 🔷 [FlexiTask Automations](https://github.com/DevindaJ517/FlexiTask-Automations) *(Telegrame Live-Ongoing)*
 Automation workflows and tooling for FlexiTask platform optimization.
 
-**Tech Stack:** Node.js, GitHub Actions, Automation Scripts
+**Tech Stack:** Python Fast Api, GitHub Actions, Automation Scripts
 
 **What I've Done So Far:**
 - 🏗️ Designed automation architecture
