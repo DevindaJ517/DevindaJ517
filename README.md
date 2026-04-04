@@ -4,7 +4,7 @@
 ![Header](./profile-header.svg)
 
 
-### 🚀 IT Undergraduate | Full-Stack Developer | AI Enthusiast
+### 🚀 Software Engineer Intern (AI/ML & Automation) | Full-Stack Developer | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiran-devinda-656966263/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevindaJ517)
@@ -18,9 +18,10 @@
 
 ## 🎓 About Me
 
-I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into intelligent, production-ready products.
+I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into intelligent, real-world products.
 
-- 🔭 Currently working on **ClaimSense** - An AI-powered Insurance Triage SaaS
+- 💼 Currently a **Software Engineer Intern (AI/ML & Automation)** at **Sri Lanka Tea Board**
+- 🔭 Working on **ClaimSense** - An AI-powered Insurance Triage SaaS
 - 🌱 Learning about **Agentic AI Systems** and **MLOps**
 - 📸 Freelance photographer and videographer (3-year diploma from NPAS)
 - 💡 Interested in cloud-based development, workflow automation, and intelligent systems
@@ -68,6 +69,15 @@ I'm a dedicated IT undergraduate from the **Institute of Technology, University 
 ![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineer Intern — AI/ML & Automation
+**Sri Lanka Tea Board** · Internship
+- Developing AI/ML solutions and automation systems for one of Sri Lanka's most prominent government institutions.
+- Applying machine learning, data automation, and intelligent workflow engineering in a real-world enterprise environment.
 
 ---
 
