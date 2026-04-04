@@ -18,7 +18,7 @@
 
 ## 🎓 About Me
 
-I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into intelligent, production-ready applications.
+I'm a dedicated IT undergraduate from the **Institute of Technology, University of Moratuwa (ITUM)**, passionate about building scalable, cloud-native systems and AI-driven solutions. I love turning ideas into intelligent, production-ready products.
 
 - 🔭 Currently working on **ClaimSense** - An AI-powered Insurance Triage SaaS
 - 🌱 Learning about **Agentic AI Systems** and **MLOps**
@@ -41,27 +41,75 @@ I'm a dedicated IT undergraduate from the **Institute of Technology, University 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### AI/ML
+### AI/ML & LLM
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔷 [SQL Bot — Agentic AI SQL Analytics](https://github.com/DevindaJ517/Sql-bot)
+An agentic AI system for secure, multi-tenant SQL analytics with natural language querying, continuous learning, and report generation.
+
+**Tech Stack:** Python, Streamlit, LangChain, LangGraph, Groq, Ollama, Redis, ChromaDB, SQLAlchemy, MySQL, SQLite, Docker, ReportLab
+
+**Key Features:**
+- 🤖 **Agentic Architecture:** Multi-layer agent system (Identity, SQL Safety, Conversation, Reporting, Memory agents)
+- 🔐 **Multi-Tenant Auth:** Organization onboarding with admin/profile users and per-profile table access controls
+- 🛡️ **Read-Only SQL Guardrails:** Strict validation with restricted table enforcement
+- 🧠 **Continuous Learning:** Organization-scoped vector memory with Chroma + Ollama embeddings
+- 📊 **Report Builder:** CSV and branded PDF export with editable columns and company logo
+- ⚡ **Concurrency:** Redis-backed shared metadata store for multi-user simultaneous sessions
+- 🐳 **Containerized Deployment:** Docker Compose with optional NVIDIA GPU support for Ollama
+- 🔍 **Data Explorer:** Table comparison, column filtering, and range analytics
+
+---
+
+### 🔷 [ZEYL](https://github.com/DevindaJ517/ZEYL) *(Private)*
+A TypeScript-based project leveraging modern full-stack technologies.
+
+**Tech Stack:** TypeScript, Python, JavaScript, CSS
+
+---
+
+### 🔷 [CTO Automation — COT Data Pipeline](https://github.com/DevindaJ517/CTO-Automation)
+Automated pipeline that fetches CFTC Commitment of Traders (COT) data, calculates trading metrics, and publishes results to Google Sheets every Friday.
+
+**Tech Stack:** Python, Google Sheets API, Google Drive API, GitHub Actions (Scheduled Workflows)
+
+**Key Features:**
+- 📈 **COT Data Fetching:** Automated retrieval of CFTC Commitment of Traders reports
+- 📊 **Trading Metrics:** Net Position, Pct Long/Short, Weekly Diff, Pct Change calculations
+- 🌍 **Tracked Assets:** Euro Currency, Gold, Japanese Yen, British Pound
+- 🔄 **Scheduled Automation:** GitHub Actions workflow runs every Friday at 21:00 UTC
+- 📋 **Google Sheets Integration:** Publishes processed data directly to Google Sheets via service account
+
+---
 
 ### 🔷 [FlexiTask - Job Posting Board](https://flexi-task-zeta.vercel.app) 
 Enterprise-grade job posting platform with advanced features for job seekers and employers.
